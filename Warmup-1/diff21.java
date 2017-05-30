@@ -5,3 +5,5 @@ public int diff21(int n) {
  }
   return sum;
 }
+
+//easy
